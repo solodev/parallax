@@ -90,7 +90,7 @@ h2{
 }
 
 #second{
-        background: url(images/secondBG-1.jpg) 50% 0 no-repeat fixed;
+        background: url("images/secondBG-1.jpg") 50% 0 no-repeat fixed;
         color: white;
         height: 1300px;
         margin: 0 auto;
@@ -99,7 +99,7 @@ h2{
 }
 
 #second .bg{
-        background: url(images/trainers-1.png) 50% 0 no-repeat fixed;
+        background: url("images/trainers-1.png") 50% 0 no-repeat fixed;
         height: 1300px;
         margin: 0 auto;
         padding: 0;
@@ -109,7 +109,7 @@ h2{
 }
 
 #third{
-        background: url(images/creative-1.jpg) 50% 0 no-repeat fixed;
+        background: url("images/creative-1.jpg") 50% 0 no-repeat fixed;
         color: black;
         height: 650px;
         padding: 100px 0 0 0;   
