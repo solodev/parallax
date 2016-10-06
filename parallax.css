@@ -84,21 +84,23 @@ h2{
 
 #intro{
         background:url("images/work-1.jpg") 50% 0 no-repeat fixed;
+		background-size: cover;
         color: white;
         height: 600px;
         margin: 0 auto;
         padding: 0;
-        max-width: 1900px;
+        width: 100%;
 }
 
 #second{
         background: url("images/secondBG-1.jpg") 50% 0 no-repeat fixed;
+		background-size: cover;
         color: white;
         height: 1300px;
         margin: 0 auto;
         overflow: hidden;
         padding: 0;
-        max-width: 1900px;
+        width: 100%;
 }
 
 #second .bg{
@@ -109,15 +111,17 @@ h2{
         position: absolute;
         z-index: 200;
         max-width: 1900px;
+		width: 100%;
         overflow: hidden;
 }
 
 #third{
         background: url("images/creative-1.jpg") 50% 0 no-repeat fixed;
+		background-size: cover;
         color: black;
         height: 650px;
         padding: 100px 0 0 0;   
-        max-width: 1900px;
+        width: 100%;
         overflow: hidden;
         padding: 0;
 }
