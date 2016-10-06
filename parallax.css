@@ -109,6 +109,7 @@ h2{
         position: absolute;
         z-index: 200;
         max-width: 1900px;
+        overflow: hidden;
 }
 
 #third{
