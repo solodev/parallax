@@ -107,7 +107,6 @@ h2{
         margin: 0 auto;
         padding: 0;
         position: absolute;
-        width: 900px;
         z-index: 200;
         max-width: 1900px;
 }
