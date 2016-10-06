@@ -82,7 +82,7 @@ h2{
 }
 
 #intro{
-        background:url(images/work-1.jpg) 50% 0 no-repeat fixed;
+        background:url("images/work-1.jpg") 50% 0 no-repeat fixed;
         color: white;
         height: 600px;
         margin: 0 auto;
