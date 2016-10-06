@@ -82,7 +82,7 @@ h2{
 }
 
 #intro{
-        background:url(https://www.solodev.com/assets/parallax/work.jpg) 50% 0 no-repeat fixed;
+        background:url(images/work-1.jpg) 50% 0 no-repeat fixed;
         color: white;
         height: 600px;
         margin: 0 auto;
@@ -90,7 +90,7 @@ h2{
 }
 
 #second{
-        background: url(https://www.solodev.com/assets/parallax/secondBG.jpg) 50% 0 no-repeat fixed;
+        background: url(images/secondBG-1.jpg) 50% 0 no-repeat fixed;
         color: white;
         height: 1300px;
         margin: 0 auto;
@@ -99,7 +99,7 @@ h2{
 }
 
 #second .bg{
-        background: url(https://www.solodev.com/assets/parallax/trainers.png) 50% 0 no-repeat fixed;
+        background: url(images/trainers-1.png) 50% 0 no-repeat fixed;
         height: 1300px;
         margin: 0 auto;
         padding: 0;
@@ -109,7 +109,7 @@ h2{
 }
 
 #third{
-        background: url(https://www.solodev.com/assets/parallax/creative.jpg) 50% 0 no-repeat fixed;
+        background: url(images/creative-1.jpg) 50% 0 no-repeat fixed;
         color: black;
         height: 650px;
         padding: 100px 0 0 0;   
